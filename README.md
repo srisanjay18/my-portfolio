@@ -1,3 +1,26 @@
+# Sri Sanjay - Personal Portfolio
+
+Welcome to my personal portfolio!
+
+I'm a final-year Electronics and Communication Engineering student
+interested in software development and emerging technologies.
+
+## 🌐 Live Portfolio
+
+[Visit My Portfolio](https://my-portfolio-ten-pi-33.vercel.app/)
+
+## 👨‍💻 Connect With Me
+
+- [LinkedIn](https://linkedin.com/in/srisanjay18)
+- [GitHub](https://github.com/srisanjay18)
+
+## 🛠️ Technologies Used
+
+- React.js
+- JavaScript
+- HTML
+- CSS
+- Vite
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
